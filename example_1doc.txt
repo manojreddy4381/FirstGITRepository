@@ -1,0 +1,1 @@
+This is the first sample file that has been created to test the GIT process.
